@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Doremii109/DoraParserProxy/refs/heads/main/DoraParser/screenshots/1.png" alt="Gui Image"/>
 # Русский язык:
 
-<strong>Автор - Doremi109</strong>
+<strong>Автор - Doremi109</strong>\n
 <strong>Канал - https://t.me/doratools_channel</strong>
 
 Описание - софт для парсинга прокси, также софт автоматически проверяет их
