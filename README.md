@@ -1,15 +1,16 @@
 # DoraParserProxy
+
 ## Screenshots
 <img src="https://raw.githubusercontent.com/Doremii109/DoraParserProxy/refs/heads/main/DoraParser/screenshots/1.png" alt="Gui Image"/>
+
 ### Русский язык:
 
-<strong>Автор - Doremi109</strong>
+**Автор** - *Doremi109*
+**Канал** - *https://t.me/doratools_channel*
 
-<strong>Канал - https://t.me/doratools_channel</strong>
+***Описание - софт для парсинга прокси, также софт автоматически проверяет их***
 
-Описание - софт для парсинга прокси, также софт автоматически проверяет их
-
-<strong>Версия python - 3.12.6</strong>
+**Версия python - 3.12.6**
 
 Ссылка - https://www.python.org/downloads/release/python-3126/
 
@@ -19,7 +20,7 @@
 
 # Как запустить софт?
 
-Легко! Просто запустите <strong>start.bat</strong>
+Легко! Просто запустите **start.bat**
 Все модули автоматически установятся если они не установлены
 
 Если будете пересылать софт, то пожалуйста указывайте меня в качестве автора
