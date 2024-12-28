@@ -2,6 +2,7 @@
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/Doremii109/DoraParserProxy/refs/heads/main/DoraParser/screenshots/1.png" alt="Gui Image"/>
+
 ___
 
 ### Русский язык:
